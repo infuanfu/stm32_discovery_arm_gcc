@@ -1,6 +1,6 @@
 
 # Put your stlink folder here so make burn will work.
-STLINK=~/stlink.git
+STLINK=/home/gjehle/Development/stlink
 
 # Put your source files here (or *.c, etc)
 SRCS=main.c system_stm32f4xx.c
